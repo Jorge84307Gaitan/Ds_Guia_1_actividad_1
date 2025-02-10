@@ -10,7 +10,7 @@ public class Main {
 		System.out.println("# Guia 1 - Actividad 1                     #");
 		System.out.println("# Estudiante: Jorge Steven Gaitan Barreto  #");
 		System.out.println("############################################");
-		System.out.println("");
+		System.out.println(" ");
 		
 		// 1. Crear 4 Tipos
 		Carnico miCarnico = new Carnico();
