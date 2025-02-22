@@ -10,7 +10,7 @@ una clase tipo producto ya sea carnico, enlatado, fruta y lacteo
 tiene una clase tienda la cual administra los productos que se encuentran en la tienda ademas de imprimir un resumen.
 
 
-Autores: Felipe Martinez Venegas
-         Miguel Antonio Moscote
-         Mariana 
-         Jorge Steven Gaitan
+Autores: Felipe Martinez Venegas,
+         Miguel Antonio Moscote,
+         Mariana,
+         Jorge Steven Gaitan,
