@@ -12,5 +12,5 @@ tiene una clase tienda la cual administra los productos que se encuentran en la 
 
 Autores: Felipe Martinez Venegas,
          Miguel Antonio Moscote,
-         Mariana,
+         Mariana Ruiz Rubiano,
          Jorge Steven Gaitan,
